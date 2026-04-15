@@ -85,10 +85,8 @@ Deletes a student based on ID.
 * **Contract ID**:
 
 ```
-PASTE_YOUR_CONTRACT_ID_HERE
+CADCAIFAUIEIUPQZHOKN6IGZEMJ4LRA76G6CGWB4L25UGNHUAF66JPDW
 ```
-
-> ⚠️ Replace the Contract ID above with your deployed contract ID.
 
 ---
 
@@ -98,7 +96,7 @@ PASTE_YOUR_CONTRACT_ID_HERE
 
 ```bash
 soroban contract invoke \
-  --id <CONTRACT_ID> \
+  --id CADCAIFAUIEIUPQZHOKN6IGZEMJ4LRA76G6CGWB4L25UGNHUAF66JPDW \
   --fn tambah_mahasiswa \
   --arg "Elberth" \
   --arg "123456" \
@@ -111,7 +109,7 @@ soroban contract invoke \
 
 ```bash
 soroban contract invoke \
-  --id <CONTRACT_ID> \
+  --id CADCAIFAUIEIUPQZHOKN6IGZEMJ4LRA76G6CGWB4L25UGNHUAF66JPDW \
   --fn get_mahasiswa
 ```
 
@@ -121,7 +119,7 @@ soroban contract invoke \
 
 ```bash
 soroban contract invoke \
-  --id <CONTRACT_ID> \
+  --id CADCAIFAUIEIUPQZHOKN6IGZEMJ4LRA76G6CGWB4L25UGNHUAF66JPDW \
   --fn hapus_mahasiswa \
   --arg 1
 ```
@@ -136,8 +134,8 @@ Below is the screenshot of the smart contract interaction on Stellar Testnet:
 INSERT_SCREENSHOT_HERE
 ```
 
-> 📌 You can upload your screenshot and replace this section with:
-> ![Screenshot](Screenshot 2026-04-15 112655.png)
+> 📌 Replace this with:
+> ![Screenshot](your-image-link)
 
 ---
 
