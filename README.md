@@ -130,9 +130,7 @@ soroban contract invoke \
 
 Below is the screenshot of the smart contract interaction on Stellar Testnet:
 
-```
 ![Screenshot](Screenshot 2026-04-15 112655.png)
-```
 ---
 
 ## 🛠️ Installation & Setup
@@ -206,7 +204,3 @@ cargo test
 Information Technology - Telkom University
 
 ---
-
-## ⭐ Support
-
-If you find this project useful, please consider giving it a ⭐ on GitHub!
