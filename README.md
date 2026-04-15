@@ -123,14 +123,6 @@ soroban contract invoke \
   --fn hapus_mahasiswa \
   --arg 1
 ```
-
----
-
-## 📸 Testnet Interface Screenshot
-
-Below is the screenshot of the smart contract interaction on Stellar Testnet:
-
-![Screenshot](Screenshot 2026-04-15 112655.png)
 ---
 
 ## 🛠️ Installation & Setup
