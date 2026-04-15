@@ -1,4 +1,4 @@
-# 🎓 Soroban Student Management Smart Contract
+# 🎓 Student Management Smart Contract
 
 A decentralized student management application built using **Soroban (Stellar Smart Contracts)** and **Rust**.
 This smart contract allows users to manage student data directly on the blockchain with simple and efficient CRUD operations.
