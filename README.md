@@ -135,7 +135,7 @@ INSERT_SCREENSHOT_HERE
 ```
 
 > 📌 Replace this with:
-> ![Screenshot](your-image-link)
+> ![Screenshot](Screenshot 2026-04-15 112655.png)
 
 ---
 
