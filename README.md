@@ -131,12 +131,8 @@ soroban contract invoke \
 Below is the screenshot of the smart contract interaction on Stellar Testnet:
 
 ```
-INSERT_SCREENSHOT_HERE
+![Screenshot](Screenshot 2026-04-15 112655.png)
 ```
-
-> 📌 Replace this with:
-> ![Screenshot](Screenshot 2026-04-15 112655.png)
-
 ---
 
 ## 🛠️ Installation & Setup
